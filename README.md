@@ -18,7 +18,7 @@
  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="80">
  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="80">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80">
-  <img src="https://media.giphy.com/media/njDNiRHqVPOy86f8wW/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/njDNiRHqVPOy86f8wW/giphy.gif" width="90" >
 
 
 
@@ -41,5 +41,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThauanRodrigues}/count.svg" /></p> 
 <br>
 </div>
+
 
 
