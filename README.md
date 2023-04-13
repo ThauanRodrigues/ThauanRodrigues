@@ -1,5 +1,6 @@
 ### Olá! Eu sou Thauan Rodrigues 👋
 
+<hr>
 
 <div align="center" display="Flex">
  <a href="https://github.com/ThauanRodrigues">
@@ -7,6 +8,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanRodrigues&theme=tokyonight&layout=compact"/>
  </a>
 </div>
+
+<hr>
 
 ## Algumas das tecnologias que utilizo
 
@@ -21,7 +24,7 @@
   <img src="https://media.giphy.com/media/njDNiRHqVPOy86f8wW/giphy.gif" width="90" >
 
 
-
+<hr>
 
 </div>
 
@@ -34,6 +37,8 @@
   
 </div>
 
+<hr>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThauanRodrigues&bg_color=000000&color=1eff00&line=00d5ff&point=07f20b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
@@ -41,6 +46,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThauanRodrigues}/count.svg" /></p> 
 <br>
 </div>
-
-
-
